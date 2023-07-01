@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🦆 Ontwikkelend](README.md)
+* [🦆 Ontwikkelend](ontwikkelend.md)
 * [🦤 Onderzoekend](onderzoekend.md)
 * [🐓 Ontwerpend](ontwerpend.md)
 * [🦢 Ondernemend](ondernemend.md)
