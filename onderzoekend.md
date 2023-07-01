@@ -1,4 +1,4 @@
-# 🦤 Onderzoekend
+# 🐤 Onderzoekend
 
 > Je identificeert technologische trends en ontwikkelingen en vertaalt deze naar uitgangspunten die je hanteert tijdens het realisatieproces.
 
