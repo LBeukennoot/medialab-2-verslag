@@ -1,3 +1,6 @@
+<img width="987" height="694" alt="image" src="https://github.com/user-attachments/assets/748607eb-7a78-4289-bd0d-d3e9f30010c0" />
+
+
 # Intro
 
 Dit verslag is ook te lezen via [Gitbook](https://lbeukennoot.gitbook.io/ml2-ontwikkeldocument-lars-1018610/).
